@@ -1,9 +1,11 @@
 # NGO Website
-
+<!--updated for demo presentation-->
 This is a simple, responsive NGO website built using HTML, CSS, and JavaScript. The site provides information about the organization, its causes, volunteer opportunities, blog updates, and photo galleries. It is designed to work well on both desktop and mobile devices.
 
 ## Features
-
+<!--modified features-->
+<!--modified features1-->
+<!--modified features2-->
 - Responsive layout with mobile-friendly navigation
 - Dedicated pages for:
   - Home (`index.html`)
@@ -20,7 +22,7 @@ This is a simple, responsive NGO website built using HTML, CSS, and JavaScript. 
 - Organized media assets stored in the `images/` folder
 
 ## Tech Stack
-
+<!--tech stack-->
 - HTML5
 - CSS3 (including flexbox/grid for layout)
 - JavaScript (ES6)
