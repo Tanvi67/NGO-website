@@ -4,6 +4,7 @@ This is a simple, responsive NGO website built using HTML, CSS, and JavaScript. 
 
 ## Features
 <!--modified features-->
+<!--modified features1-->
 - Responsive layout with mobile-friendly navigation
 - Dedicated pages for:
   - Home (`index.html`)
