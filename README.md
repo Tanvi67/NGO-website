@@ -22,7 +22,7 @@ This is a simple, responsive NGO website built using HTML, CSS, and JavaScript. 
 - Organized media assets stored in the `images/` folder
 
 ## Tech Stack
-
+<!--tech stack-->
 - HTML5
 - CSS3 (including flexbox/grid for layout)
 - JavaScript (ES6)
